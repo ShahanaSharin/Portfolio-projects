@@ -1,4 +1,7 @@
-
+/*
+Covid 19 Data Exploration
+skills used: joins, CTE'S. Aggregate Functions,Converting Data Types,creating views.
+*/
 ----selecting the columns that we are going to use 
 select location, date, total_cases,new_cases,total_deaths
 from public.covid_death
